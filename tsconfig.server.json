@@ -1,1 +1,0 @@
-{"extends":"./tsconfig.json","compilerOptions":{"noEmit":false,"outDir":"server-dist","rootDir":".","lib":["ES2022"],"types":["node"]},"include":["server/src/**/*.ts","shared/src/**/*.ts"],"exclude":["client","tests","vite.config.ts"]}
